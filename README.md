@@ -1,9 +1,5 @@
 # ecommerce-laravel-fullstack
 
-# Link : http://vampireecommerce.herokuapp.com
-
-This repo is based on the [youtube series](https://www.youtube.com/playlist?list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR) by [@drehimself](https://github.com/drehimself)
-
 ## Features
 
 -   Fully functional E-commerce website front-end and back-end built from scratch.
@@ -20,7 +16,7 @@ This repo is based on the [youtube series](https://www.youtube.com/playlist?list
 
 ## Installation Guide
 
-1. clone this repo to your local machine: `git clone https://github.com/mhmdomer/ecommerce-laravel.git && cd ecommerce-laravel`
+1. clone this repo to your local machine: `git clone https://github.com/mightyeagle329/ecommerce-laravel.git && cd ecommerce-laravel`
 1. copy `.example.env` to `.env` file: `cp .example.env .env`
 1. create a new database and add the database credentials to your `.env` file
 1. run `composer install`
